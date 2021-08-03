@@ -1,4 +1,12 @@
 ```bash
-ln -s ~/.dotfiles/.bashrc ~/.bashrc
-ln -s ~/.dotfiles/.bash_aliases ~/.bash_aliases
+git clone https://github.com/miro00/.dotfiles.git
 ```
+
+```bash
+sudo chmod +x ~/.dotfiles/startup.sh
+```
+
+```bash
+~/.dotfiles/startup.sh
+```
+
