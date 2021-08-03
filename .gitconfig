@@ -1,3 +1,8 @@
 [user]
 	name = miro00
 	email = ozvard765@gmail.com
+
+[push]
+  default = upstream
+  rebase = true
+  followTags = true
