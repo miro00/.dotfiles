@@ -1,5 +1,5 @@
 ```bash
-git clone https://github.com/miro00/.dotfiles.git
+git clone https://github.com/miro00/.dotfiles.git ~/
 ```
 
 ```bash
