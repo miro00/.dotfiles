@@ -4,5 +4,3 @@
 
 [push]
   default = upstream
-  rebase = true
-  followTags = true
