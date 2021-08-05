@@ -16,4 +16,3 @@ fi
 
 # User specific aliases and functions
 export PS1="╭─[\[\e[0;36m\]\u\[\e[m\]\[\e[1;32m\]@\[\e[m\]\h 🐳 \[\e[0;33m\]\W\[\e[m\] \t] \n╰─"
-cd /var/projects
