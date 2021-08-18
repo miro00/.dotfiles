@@ -1,6 +1,9 @@
-[user]
-	name = Александр
-	email = ozvard765@gmail.com
+[commit]
+	gpgsign = true
 
+[user]
+	name = Alexander
+	email = ozvard765@gmail.com
+	signingkey = E954A1847724C377
 [push]
   default = upstream
