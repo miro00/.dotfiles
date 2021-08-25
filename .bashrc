@@ -10,5 +10,5 @@ HISTCONTROL=ignoreboth
 shopt -s histappend
 HISTSIZE=2000
 HISTFILESIZE=2000
-
+export GPG_TTY=$(tty)
 export PS1="╭─[\[\e[0;36m\]\u\[\e[m\]\[\e[1;32m\]@\[\e[m\]\h 🐳 \[\e[0;33m\]\W\[\e[m\] \t] \n╰─"
