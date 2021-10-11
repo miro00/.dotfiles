@@ -2,6 +2,7 @@ alias dcu='docker-compose up'
 alias dcd='docker-compose down'
 alias dcr='docker-compose restart'
 alias dcl='docker-compose logs -f -t'
+alias dps='docker ps --format "table {{.ID}}\t{{.Image}}\t{{.Status}}\t{{.Names}}"'
 alias la='ls -a'
 alias c="clear"
 
